@@ -22,9 +22,9 @@ Genesis Nexus place l'autorité humaine et la supervision au centre de l'organis
 
 ---
 
-## Synara 1.0
+## Synara 0.1
 
-Synara est le premier produit métier développé par Genesis Company.
+Synara 0.1 est la première gamme de produits métier développé par Genesis Company.
 
 Solution dédiée aux établissements de restauration et d'hospitalité :
 
@@ -61,7 +61,7 @@ Projet en développement.
 ### Genesis Nexus
 Architecture centrale permettant la coordination, la gouvernance et la traçabilité des opérations Genesis Company.
 
-### Synara 1.0
+### Synara 0.1
 Solution métier destinée aux établissements de restauration et d'hospitalité connectés.
 
 ### Technologies
